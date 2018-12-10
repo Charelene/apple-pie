@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Apple Pie
 //
-//  Created by Андрей on 12/10/18.
+//  Created by Андрей on 12/6/18.
 //  Copyright © 2018 Andrii Korablin. All rights reserved.
 //
 
